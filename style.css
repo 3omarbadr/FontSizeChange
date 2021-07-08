@@ -7,6 +7,8 @@
   color: #fee715ff;
 }
 
-span {
+#font {
+  font-size: 20px;
   color: #101820ff;
+  margin: 45%;
 }
